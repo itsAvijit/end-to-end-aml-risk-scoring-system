@@ -14,7 +14,21 @@ The solution is designed in alignment with:
 - **RBI AML / KYC Master Directions**
 - Risk-Based Approach (RBA)
 
-All datasets used are **synthetically generated** and contain no real customer information.
+  ## Data Source
+
+The datasets used in this project are **synthetically generated** and sourced from Kaggle for educational and demonstration purposes.
+
+**Original Dataset:**
+- Platform: Kaggle
+- Dataset Name: *Synthetic KYC and Transaction Risk Dataset*
+- Use Case: AML, KYC, credit risk, and financial crime analytics
+
+**Dataset Files Used:**
+- `clients_with_fatf_ofac.csv`
+- `transactions_with_fatf_ofac.csv`
+
+**Source Path (Kaggle):**
+https://www.kaggle.com/datasets/chaitalithakkar/synthetic-kyc-and-transaction-risk-dataset
 
 ---
 
